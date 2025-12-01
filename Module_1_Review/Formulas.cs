@@ -2,7 +2,7 @@
 
 public class Formulas
 {
-    public double AreaOfACircle()
+    static void AreaOfACircle()
     {
         Console.WriteLine("What is the Radius of the circle?");
         var radius = double.Parse(Console.ReadLine());
@@ -10,12 +10,10 @@ public class Formulas
         var circleArea = (3.14 * (radius * radius));
         
         Console.WriteLine($"The area of the Circle is {circleArea}");
-
-        return circleArea;
         
     }
 
-    public static void AreaOfATriangle()
+    static void AreaOfATriangle()
     {
         Console.WriteLine("What is the Base of the triangle?");
         var userBase = double.Parse(Console.ReadLine());
@@ -27,7 +25,7 @@ public class Formulas
         Console.WriteLine($"The area of the triangle is {triangleArea}");
     }
 
-    public static void AreaOfARectangle()
+    static void AreaOfARectangle()
     {
         Console.WriteLine("What is the Length of the rectangle?");
         var userLength = double.Parse(Console.ReadLine());
@@ -39,7 +37,7 @@ public class Formulas
         Console.WriteLine($"The area of the rectangle is {rectangleArea}");
     }
 
-    public static void AreaOfASquare()
+     static void AreaOfASquare()
     {
         Console.WriteLine("What is the Side of the square?");
         var userSide = double.Parse(Console.ReadLine());
@@ -49,7 +47,7 @@ public class Formulas
     }
 
 
-    public void MethodRun()
+    public static void MethodRun()
     {
         AreaOfACircle();
         AreaOfATriangle();

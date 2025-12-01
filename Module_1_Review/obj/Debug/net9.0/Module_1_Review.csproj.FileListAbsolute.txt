@@ -12,3 +12,4 @@ C:\Users\kken5\Desktop\repos\NewSolution\Module_1_Review\Module_1_Review\obj\Deb
 C:\Users\kken5\Desktop\repos\NewSolution\Module_1_Review\Module_1_Review\obj\Debug\net9.0\Module_1_Review.pdb
 C:\Users\kken5\Desktop\repos\NewSolution\Module_1_Review\Module_1_Review\obj\Debug\net9.0\Module_1_Review.genruntimeconfig.cache
 C:\Users\kken5\Desktop\repos\NewSolution\Module_1_Review\Module_1_Review\obj\Debug\net9.0\ref\Module_1_Review.dll
+C:\Users\kken5\Desktop\repos\NewSolution\Module_1_Review\Module_1_Review\obj\Debug\net9.0\Module_1_Review.sourcelink.json

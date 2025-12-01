@@ -6,7 +6,7 @@ class Program : Formulas
 {
     
     
-    public void Main(string[] args)
+    static void Main(string[] args)
     {
         MethodRun();
     }
