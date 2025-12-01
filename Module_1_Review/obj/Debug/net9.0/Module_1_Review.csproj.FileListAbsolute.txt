@@ -1,0 +1,14 @@
+C:\Users\kken5\Desktop\repos\NewSolution\Module_1_Review\Module_1_Review\bin\Debug\net9.0\Module_1_Review.exe
+C:\Users\kken5\Desktop\repos\NewSolution\Module_1_Review\Module_1_Review\bin\Debug\net9.0\Module_1_Review.deps.json
+C:\Users\kken5\Desktop\repos\NewSolution\Module_1_Review\Module_1_Review\bin\Debug\net9.0\Module_1_Review.runtimeconfig.json
+C:\Users\kken5\Desktop\repos\NewSolution\Module_1_Review\Module_1_Review\bin\Debug\net9.0\Module_1_Review.dll
+C:\Users\kken5\Desktop\repos\NewSolution\Module_1_Review\Module_1_Review\bin\Debug\net9.0\Module_1_Review.pdb
+C:\Users\kken5\Desktop\repos\NewSolution\Module_1_Review\Module_1_Review\obj\Debug\net9.0\Module_1_Review.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kken5\Desktop\repos\NewSolution\Module_1_Review\Module_1_Review\obj\Debug\net9.0\Module_1_Review.AssemblyInfoInputs.cache
+C:\Users\kken5\Desktop\repos\NewSolution\Module_1_Review\Module_1_Review\obj\Debug\net9.0\Module_1_Review.AssemblyInfo.cs
+C:\Users\kken5\Desktop\repos\NewSolution\Module_1_Review\Module_1_Review\obj\Debug\net9.0\Module_1_Review.csproj.CoreCompileInputs.cache
+C:\Users\kken5\Desktop\repos\NewSolution\Module_1_Review\Module_1_Review\obj\Debug\net9.0\Module_1_Review.dll
+C:\Users\kken5\Desktop\repos\NewSolution\Module_1_Review\Module_1_Review\obj\Debug\net9.0\refint\Module_1_Review.dll
+C:\Users\kken5\Desktop\repos\NewSolution\Module_1_Review\Module_1_Review\obj\Debug\net9.0\Module_1_Review.pdb
+C:\Users\kken5\Desktop\repos\NewSolution\Module_1_Review\Module_1_Review\obj\Debug\net9.0\Module_1_Review.genruntimeconfig.cache
+C:\Users\kken5\Desktop\repos\NewSolution\Module_1_Review\Module_1_Review\obj\Debug\net9.0\ref\Module_1_Review.dll
