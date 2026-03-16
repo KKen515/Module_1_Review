@@ -47,7 +47,7 @@ public class Formulas
     }
 
 
-    public static void MethodRun()
+    public void MethodRun()
     {
         AreaOfACircle();
         AreaOfATriangle();

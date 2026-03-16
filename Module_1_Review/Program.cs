@@ -8,7 +8,9 @@ class Program : Formulas
     
     static void Main(string[] args)
     {
-        MethodRun();
+        var formulaResult = new Formulas();
+
+        formulaResult.MethodRun();
     }
 
     
